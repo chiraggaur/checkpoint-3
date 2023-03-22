@@ -115,15 +115,15 @@ header{
 
 .blog-1{
     width: 100vw;
-    height: 700px;
+    height: 400px;
     /* border: 2px solid black; */
     background-position:center;
-    background-image: url(assets/media/hero/h1_hero.jpg);
+    background-image: url(assets/media/hero/about_hero.jpg);
     background-size: cover;
     /* display: flex; */
     
 }
-.container_1{
+/* .container_1{
     width:300px;
     height: 30px;
     font-size: 20px;
@@ -141,7 +141,7 @@ header{
     position: relative;
     left: 100px;
     top: 200px;
-}    
+}     */
 
 .section_2{
     width:100vw;
